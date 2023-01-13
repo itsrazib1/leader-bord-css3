@@ -8,6 +8,7 @@ body {
 }
 .size{
   border-radius: 50%;
+  text-decoration: none;
 }
 main {
   display: flex;
